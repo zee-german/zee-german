@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @zee-german
-- 👀 I’m interested in all things that make the world go rounder
+- 👀 I’m interested in all things techy and shiny
+- ⌨ I write a lot of React and JavaScript code (mostly gatsby for SSG)
 - 🌱 I’m currently learning rust, go and elixir
 
 <!---
